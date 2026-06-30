@@ -172,6 +172,7 @@ http://localhost:5173
 ## Author
 
 **Kartik Garg**
+---
 **Navya Garg**
 
 
