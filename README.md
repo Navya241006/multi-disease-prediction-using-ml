@@ -172,10 +172,8 @@ http://localhost:5173
 ## Author
 
 **Kartik Garg**
+**Navya Garg**
 
-LinkedIn: *Add your LinkedIn profile*
-
-GitHub: https://github.com/kartikgarg090306-tech
 
 ---
 
